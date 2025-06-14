@@ -25,13 +25,21 @@ Built a Power BI dashboard featuring:
 
 
 
-3. Client Profile & Behavior Analysis 
+---
+
+## 3. Client Profile & Behavior Analysis (Kilo Health-style Task)
 Tools: SQL (BigQuery)
 Designed and executed a multi-step data cleaning and enrichment pipeline to prepare a comprehensive customer analysis dataset.
 Used multiple CTEs and advanced SQL techniques to:
--Extract and unify the most recent customer health-related responses (e.g., diabetes, allergies, activity level)
--Identify subscription patterns and payment behavior
--Categorize customers by BMI and desired body weight change
--Detect refund and chargeback history by order type
--Join all features into a final analytics-ready customer table
--Key SQL techniques: WITH (CTE), ROW_NUMBER(), CASE, REGEXP_EXTRACT, SAFE_CAST, JOIN, COUNT, CAST
+
+Extract and unify the most recent customer health-related responses (e.g., diabetes, allergies, activity level)
+
+Identify subscription patterns and payment behavior
+
+Categorize customers by BMI and desired body weight change
+
+Detect refund and chargeback history by order type
+
+Join all features into a final analytics-ready customer table
+
+✅ Key SQL techniques: WITH (CTE), ROW_NUMBER(), CASE, REGEXP_EXTRACT, SAFE_CAST, JOIN, COUNT, CAST
