@@ -42,4 +42,4 @@ Detect refund and chargeback history by order type
 
 Join all features into a final analytics-ready customer table
 
-✅ Key SQL techniques: WITH (CTE), ROW_NUMBER(), CASE, REGEXP_EXTRACT, SAFE_CAST, JOIN, COUNT, CAST
+ Key SQL techniques: WITH (CTE), ROW_NUMBER(), CASE, REGEXP_EXTRACT, SAFE_CAST, JOIN, COUNT, CAST
