@@ -27,7 +27,7 @@ Built a Power BI dashboard featuring:
 
 ---
 
-## 3. Client Profile & Behavior Analysis (Kilo Health-style Task)
+## 3. Client Profile & Behavior Analysis 
 Tools: SQL (BigQuery)
 Designed and executed a multi-step data cleaning and enrichment pipeline to prepare a comprehensive customer analysis dataset.
 Used multiple CTEs and advanced SQL techniques to:
