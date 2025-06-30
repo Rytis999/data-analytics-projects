@@ -1,6 +1,8 @@
-﻿Trumpai apie užduotį:
- Šioje SQL užklausoje analizuoju klientų duomenis iš kelių šaltinių – nuo jų atsakymų apie sveikatą iki mokėjimų istorijos. Išvalau reikšmes, nustatau ar klientas buvo konvertuotas, identifikuoju alergijas, prenumeratos planų trukmę ir suskirstau klientus pagal KMI bei norimą numesti svorį. Galiausiai viską apjungiu į vieną bendrą klientų lentelę.
-Naudoti metodai: WITH CTE blokai, ROW_NUMBER(), CASE, REGEXP_EXTRACT, JOIN, SAFE_CAST, COUNT ir pan.
+Projektas: Klientų duomenų analizė
+
+Naudodamas SQL apjungiau ir apdorojau klientų duomenis iš kelių lentelių – nuo apklausų iki užsakymų istorijos. 
+Išvaliau reikšmes, apskaičiavau KMI, įvertinau norimą svorio pokytį, nustačiau  konversijas, prenumeratų trukmę, grąžinimus ir mokėjimus.
+ Galiausiai viska sujungiau į vieną lentelę .
 
 
 
