@@ -43,3 +43,23 @@ Detect refund and chargeback history by order type
 Join all features into a final analytics-ready customer table
 
  Key SQL techniques: WITH (CTE), ROW_NUMBER(), CASE, REGEXP_EXTRACT, SAFE_CAST, JOIN, COUNT, CAST
+
+
+---
+
+
+## 4. War Losses Over Time – Equipment Analysis
+Tools: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
+Analyzed Russian military equipment losses using official daily reports.
+Prepared and visualized key insights through:
+
+Total loss counts by equipment type (TOP 10)
+
+Loss trends over time (daily & monthly)
+
+Correlation heatmap between equipment categories
+
+Identification of the deadliest days
+
+Exploration of loss directions (if available)
+ 
