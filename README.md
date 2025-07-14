@@ -62,4 +62,25 @@ Correlation heatmap between equipment categories
 Identification of the deadliest days
 
 Exploration of loss directions (if available)
+
+
+
+## 5. Car Rental SQL Analysis
+Tools: PostgreSQL,  Power BI  
+Created a realistic database simulating a car rental business. Populated tables with 150+ entries and analyzed operational performance using SQL. Explored customer behavior, rental frequency, and financial performance through queries such as:
+
+Most rented car models and brands
+
+Customers with the highest total spending
+
+Average rental price by car make
+
+Year with the highest rental revenue
+
+Registered customers by year
+
+Key SQL techniques: JOIN, GROUP BY, ORDER BY, HAVING, COUNT, SUM, MAX, EXTRACT, subqueries
+
+
+
  
